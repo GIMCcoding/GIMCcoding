@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GIMCcoding
+- 👀 I’m interested in getting a better understanding in writing code 
+- 🌱 I’m currently learning python and HTML
+- 📫 How to reach me by e-mail 
+- 😄 Pronouns: she/her
